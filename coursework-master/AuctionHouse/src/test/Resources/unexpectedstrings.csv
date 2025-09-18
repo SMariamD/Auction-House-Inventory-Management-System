@@ -1,0 +1,6 @@
+Type,Title,Owner,Condition,StartingPrice,UniqueID,LowYearEstimate,HighYearEstimate,Material,GemType,Make,Model,Style,Width,Height,Author,Edition,Genre,ServiceHistory
+book,The Great Gatsby,John Doe,Awesome,100.0,ID001,1923,1925,,,,,,,,F. Scott Fitzgerald,First Edition,Fiction
+car,Vintage Car Model X,Bob Brown,Restored,25000.0,ID004,1965,1970,,,Ford,Mustang,,,,,,,Serviced
+jewelry,Gold Ring with Ruby,Emily Smith,Excellent,5000.0,ID007,,,,Gold,Ruby,,,,,,,,
+painting,Starry Night,Alex Green,Mint,100000.0,ID002,1889,1890,,,,,,,,Vincent van Gogh,First Edition,Impressionism,,,,,
+book,The Catcher in the Rye,Michael White,Good,200.0,ID003,1951,1952,,,,,,,,J.D. Salinger,First Edition,Fiction

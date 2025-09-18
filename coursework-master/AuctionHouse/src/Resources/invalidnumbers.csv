@@ -1,0 +1,7 @@
+Type,Title,Owner,Condition,StartingPrice,UniqueID,LowYearEstimate,HighYearEstimate,Material,GemType,Make,Model,Style,Width,Height,Author,Edition,Genre,ServiceHistory
+book,The Great Gatsby,John Doe,Good,abc,ID001,1923,1925,,,,,,,,F. Scott Fitzgerald,First Edition,Fiction,
+book,To Kill a Mockingbird,Jane Smith,Excellent,200.0,ID002,1960,1961,,,,,,,,Harper Lee,Second Edition,Classic,
+jewellery,Elegant Necklace,Alice Wonder,Very Good,500.0,ID003,1980,xyz,Gold,Diamond,,,,,,,,,
+car,Ford Mustang,Bob Builder,Fair,invalid_price,ID004,1965,1967,,,Ford,Mustang,,400,200,,,
+painting,Starry Night,Art Lover,Good,3000.0,ID005,1889,unknown,,,,,,50,70,Van Gogh,,Post-Impressionism,
+

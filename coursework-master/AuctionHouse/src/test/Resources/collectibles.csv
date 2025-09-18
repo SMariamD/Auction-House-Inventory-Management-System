@@ -1,0 +1,6 @@
+Type,Title,Owner,Condition,StartingPrice,UniqueID,LowYearEstimate,HighYearEstimate,Material,GemType,Make,Model,Style,Width,Height,Author,Edition,Genre,ServiceHistory
+Book,The Great Gatsby,John Doe,Awesome,100.00,ID001,1923,1925,,,,,,,,F. Scott Fitzgerald,First Edition,Fiction,
+Book,To Kill a Mockingbird,Jane Smith,Used,10.00,ID002,1960,1961,,,,,,,,Harper Lee,Second Edition,Classic,
+Jewelry,Antique Necklace,Alice Green,Fair,500.00,ID003,1800,1850,Gold,Diamond,,,,,,,,,
+Car,Vintage Car Model X,Bob Brown,Restored,25000.00,ID004,1965,1970,,,Ford,Mustang,,,,,,,Serviced
+Painting,Starry Night,Art Lover,Good,3000.00,ID005,1889,1890,,,,,Post-Impressionism,50.00,70.00,Van Gogh,,,

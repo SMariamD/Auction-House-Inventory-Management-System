@@ -1,0 +1,21 @@
+Title,Author,Edition,Genre,YearOfOrigin,Owner,Condition,StartingPrice,UniqueIdentifier
+Title1,Author1,1st Edition,Fiction,1995,Owner1,Mint,100.0,B001
+Title2,Author2,2nd Edition,Fantasy,2005,Owner2,Restored,150.0,B002
+Title3,Author3,3rd Edition,Thriller,2010,Owner1,Needs Restoring,50.0,B003
+Title4,Author4,4th Edition,Science Fiction,1990,Owner3,Good,75.0,B004
+Title5,Author5,5th Edition,Horror,1985,Owner4,Poor,30.0,B005
+Title6,Author6,1st Edition,Romance,2000,Owner5,Restored,120.0,B006
+Title7,Author7,2nd Edition,Adventure,2015,Owner6,Mint,200.0,B007
+Title8,Author8,3rd Edition,Biography,1998,Owner7,Good,90.0,B008
+Title9,Author9,1st Edition,History,1980,Owner8,Needs Restoring,40.0,B009
+Title10,Author10,2nd Edition,Drama,1992,Owner9,Restored,60.0,B010
+Title11,Author11,1st Edition,Poetry,2003,Owner1,Mint,130.0,B011
+Title12,Author12,3rd Edition,Non-Fiction,1987,Owner2,Poor,25.0,B012
+Title13,Author13,4th Edition,Fantasy,2011,Owner3,Good,95.0,B013
+Title14,Author14,5th Edition,Thriller,2009,Owner4,Restored,140.0,B014
+Title15,Author15,1st Edition,Fiction,2013,Owner5,Mint,170.0,B015
+Title16,Author16,2nd Edition,Science Fiction,2007,Owner6,Good,85.0,B016
+Title17,Author17,3rd Edition,Romance,1988,Owner7,Needs Restoring,35.0,B017
+Title18,Author18,1st Edition,Horror,1996,Owner8,Restored,110.0,B018
+Title19,Author19,2nd Edition,Biography,1999,Owner9,Poor,20.0,B019
+Title20,Author20,3rd Edition,Adventure,2002,Owner1,Mint,145.0,B020

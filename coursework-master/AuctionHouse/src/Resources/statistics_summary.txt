@@ -1,0 +1,24 @@
+Total items: 5
+Oldest item: Painting: Starry Night by Van GoghID005
+Newest item: Jewellery (Gold, Gem: Diamond)
+Top 3 items with the largest year estimate differences:
+Book: The Great Gatsby by F. Scott Fitzgerald (Year Estimate Difference: 2 years)
+Car (Ford Mustang, Service: Serviced) (Year Estimate Difference: 2 years)
+Jewellery (Gold, Gem: Diamond) (Year Estimate Difference: 5 years)
+Oldest item by middle year estimate: Painting: Starry Night by Van GoghID005
+Newest item by middle year estimate: Jewellery (Gold, Gem: Diamond)
+Most expensive item: Car (Ford Mustang, Service: Serviced) - AED 30000.00
+Least expensive item: Book: The Great Gatsby by F. Scott Fitzgerald - AED 100.00
+Avg price: AED 6760.00
+Price Std Dev: 11668.86
+Condition breakdown:
+Excellent: 1
+Fair: 1
+Good: 2
+Very Good: 1
+Unique owners:
+John Doe
+Jane Smith
+Alice Wonder
+Bob Builder
+Art Lover

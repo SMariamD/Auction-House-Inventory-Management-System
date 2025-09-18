@@ -1,0 +1,8 @@
+Title,Author,Edition,Genre,YearOfOrigin,Owner,Condition,StartingPrice,UniqueIdentifier
+Title1,Author1,1st Edition,Fiction,1995,Owner1,Mint,100.0,B001
+Title2,Author2,,Fantasy,2005,Owner2,Restored,150.0,B002
+Title3,Author3,3rd Edition,Thriller,2010,Owner1,Needs Restoring,,B003
+Title4,Author4,4th Edition,Science Fiction,,Owner3,Good,75.0,B004
+Title5,,5th Edition,Horror,1985,Owner4,Poor,30.0,B005
+Title6,Author6,1st Edition,Romance,2000,,Restored,120.0,B006
+Title7,Author7,2nd Edition,Adventure,2015,Owner6,Mint,200.0,

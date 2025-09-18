@@ -1,0 +1,5 @@
+Type,Title,Owner,Condition,StartingPrice,UniqueID,LowYearEstimate,HighYearEstimate,Material,GemType,Make,Model,Style,Width,Height,Author,Edition,Genre,ServiceHistory
+book,The Great Gatsby,John Doe,,100.0,ID001,1923,1925,,,,,,,,F. Scott Fitzgerald,First Edition,Fiction
+jewellery,Antique Necklace,Alice Green,Fair,500.0,ID003,1800,1850,Gold,Diamond,,,,,,,, 
+car,,Alice Green,Excellent,20000.0,ID004,2000,2020,,,Toyota,Corolla,,,,,,,,
+painting,Starry Night,John Doe,Good,30000.0,ID005,1889,1890,,,,,,,,Vincent van Gogh,,Oil on Canvas,80,60,,,,,
